@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=쪄쪄쪄쪄쪙이%Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=쪄쪄쪄쪄쪙이%Github&fontSize=50)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYOJEONG0213)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYOJEONG0213&theme=blue-green)
 
 ##WEBSITE  
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
