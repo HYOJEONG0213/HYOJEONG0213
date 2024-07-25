@@ -3,7 +3,7 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-jeongjeong.vercel.app/api/top-langs/?username=HYOJEONG0213&exclude_repo=HYOJEONG0213/github-readme-stats,Hyuni02/SummerProject2,HYOJEONG0213/track_main_character,HYOJEONG0213/track_main_character2,HYOJEONG0213/SummerProject,HYOJEONG0213/SummerProject2&langs_count=12" alt="Top Languages" />
+        <img src="https://github-readme-stats-jeongjeong.vercel.app/api/top-langs/?username=HYOJEONG0213&exclude_repo=HYOJEONG0213/github-readme-stats,Hyuni02/SummerProject2,HYOJEONG0213/track_main_character,HYOJEONG0213/track_main_character2,HYOJEONG0213/SummerProject,HYOJEONG0213/SummerProject2&langs_count=10" alt="Top Languages" />
     </a>
     <img src="https://github-readme-stats-jeongjeong.vercel.app/api?username=HYOJEONG0213&count_private=true&include_all_commits=true" alt="HYOJEONG0213's GitHub stats" />
 </div>
