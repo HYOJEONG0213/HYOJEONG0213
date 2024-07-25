@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=쪄쪄쪄쪄쪙이's%20Github&fontSize=50)
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=쪄쪄쪄쪄쪙이's%20Github&fontSize=50" />
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
