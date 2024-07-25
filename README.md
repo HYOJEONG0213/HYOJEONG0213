@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=쪄쪄쪄쪄쪙이's%20Github&fontSize=50)
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYOJEONG0213&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![HYOJEONG0213's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYOJEONG0213&count_private=true)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYOJEONG0213&count_private=true" alt="Top Languages" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=HYOJEONG0213&count_private=true" alt="HYOJEONG0213's GitHub stats" />
 </div>
 
 <h3 align="center">✨ Website ✨</h3>
@@ -16,7 +18,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </div>
 
-<h3 align="center">✨ Game ✨</h3>
+<h3 align="center"> 🎮 Game 🎮</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
