@@ -11,6 +11,7 @@
 
         <div align="center" style="display: flex; flex-direction: column; align-items: center;">
         -->
+        <div>
             <h3>✨ Website ✨</h3>
             <div style="display: flex; justify-content: center;">
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,6 +34,7 @@
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
                 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android_Studio" />
             </div>
+        </div>
 
 <!--
 **HYOJEONG0213/HYOJEONG0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
