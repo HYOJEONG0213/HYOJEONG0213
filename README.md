@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=쪄쪄쪄쪄쪙이's%20Github&fontSize=50" />
 
+<!--
     <div align="center" style="display: flex; flex-direction: column; align-items: center;">
         <div>
             <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -9,6 +10,7 @@
         </div>
 
         <div align="center" style="display: flex; flex-direction: column; align-items: center;">
+        -->
             <h3>✨ Website ✨</h3>
             <div style="display: flex; justify-content: center;">
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,9 +33,6 @@
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
                 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android_Studio" />
             </div>
-        </div>
-    </div>
-</div>
 
 <!--
 **HYOJEONG0213/HYOJEONG0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
