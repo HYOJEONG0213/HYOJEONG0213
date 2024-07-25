@@ -5,8 +5,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-jeongjeong.vercel.app/api/top-langs/?username=HYOJEONG0213&exclude_repo=HYOJEONG0213/github-readme-stats,Hyuni02/SummerProject2,HYOJEONG0213/track_main_character,HYOJEONG0213/track_main_character2,HYOJEONG0213/SummerProject,HYOJEONG0213/SummerProject2&langs_count=10" alt="Top Languages" />
     </a>
+    <!--
     <img src="https://github-readme-stats-jeongjeong.vercel.app/api?username=HYOJEONG0213&count_private=true&include_all_commits=true" alt="HYOJEONG0213's GitHub stats" />
 </div>
+    -->
 
 <h3 align="center">✨ Website ✨</h3>
   <div align="center">
@@ -32,6 +34,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android_Studio" />
   </div>
+</div>
 
 <!--
 **HYOJEONG0213/HYOJEONG0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
