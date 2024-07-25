@@ -3,7 +3,7 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-jeongjeong.vercel.app/api/top-langs/?username=HYOJEONG0213" alt="Top Languages" />
+        <img src="https://github-readme-stats-jeongjeong.vercel.app/api/top-langs/?username=HYOJEONG0213&exclude_repo=HYOJEONG0213/github-readme-stats,Hyuni02/SummerProject2,HYOJEONG0213/track_main_character,HYOJEONG0213/track_main_character2,HYOJEONG0213/SummerProject,HYOJEONG0213/SummerProject2, " alt="Top Languages" />
     </a>
     <img src="https://github-readme-stats-jeongjeong.vercel.app/api?username=HYOJEONG0213" alt="HYOJEONG0213's GitHub stats" />
 </div>
@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <div> 🍁MapleStory🍁</div>
   </div>
 
 <h3 align="center"> ETC.. </h3>
