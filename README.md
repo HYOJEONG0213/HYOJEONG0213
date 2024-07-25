@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=높이&section=header&text=쪄쪄쪄쪄쪙이&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text="쪄쪄쪄쪄쪙이"&fontSize="50" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYOJEONG0213)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={HYOJEONG0213}&theme=blue-green)
+[![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYOJEONG0213&theme=blue-green)
 
 
 [![HYOJEONG0213's GitHub](https://github-readme-stats.vercel.app/api?username=HYOJEONG0213)](https://github.com/anuraghazra/github-readme-stats)
