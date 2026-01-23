@@ -3,7 +3,7 @@
 </div>    
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={jeong0213}" width=40% />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong0213" width=40% />
 </div>
 
 <h3 align="center">✨ Website ✨</h3>
