@@ -2,7 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=쪄쪄쪄쪄쪙이's%20Github&fontSize=50" />
 </div>    
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong0213)](https://solved.ac/jeong0213)
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj={jeong0213}" width=40% />
+</div>
 
 <h3 align="center">✨ Website ✨</h3>
 <div align="center">    
