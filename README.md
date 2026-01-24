@@ -3,7 +3,9 @@
 </div>    
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong0213" width=40% />
+    <a href="https://solved.ac/profile/jeong0213">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong0213" width=40% />
+    </a>
 </div>
 
 <h3 align="center"> 🎮 Strong 🎮</h3>
