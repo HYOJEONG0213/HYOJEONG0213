@@ -19,6 +19,7 @@
 
 <h3 align="center">✨ Knowledgeable ✨</h3>
 <div align="center">    
+    <img src="https://img.shields.io/badge/DirectX%2012-%2380BA03?style=flat-square" alt="Direct" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript" />
