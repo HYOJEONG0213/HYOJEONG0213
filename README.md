@@ -36,60 +36,78 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/HYOJEONG0213/CodingTest" style="text-decoration:none; color:#0969da;">📑 CodingTest</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px;">Public</code><br>
-      <br>
-      c++ 코딩테스트 문제 풀이<br>
-      <br>
-      <span style="color:#f34b7d;">●</span> C++
+      <div style="padding: 12px;">
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/CodingTest" style="text-decoration:none; color:#0969da;">CodingTest</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <br>
+        <span style="font-size:13px; color:#24292f;">c++ 코딩테스트 문제 풀이</span><br>
+        <br>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#f34b7d;">●</span> C++</span>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/JeongFork/Pollutional-Penguin-Public-Mine" style="text-decoration:none; color:#0969da;">📑 Pollutional-Penguin-Public-Mine</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px;">Public</code><br>
-      <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/HYOJEONG0213/Pollutional-Penguin-Public" style="color:#57606a; text-decoration:none;">HYOJEONG0213/Pollutional-Penguin-Public</a></span><br>
-      오염 펭귄(2024년 졸업 작품 / 언리얼)<br>
-      <br>
-      <span style="color:#f34b7d;">●</span> C++
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/HYOJEONG0213/Never-Come-Lab" style="text-decoration:none; color:#0969da;">📑 Never-Come-Lab</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px;">Public</code><br>
-      <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/PLUM-NCL/Never-Come-Lab" style="color:#57606a; text-decoration:none;">PLUM-NCL/Never-Come-Lab</a></span><br>
-      스토리 어드벤처 게임 &lt;NCL&gt; Demo Version 👨‍🎓<br>
-      <br>
-      <span style="color:#178600;">●</span> C#
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/HYOJEONG0213/Direct12" style="text-decoration:none; color:#0969da;">📑 Direct12</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px;">Public</code><br>
-      <br>
-      다이렉트12 찍먹<br>
-      <br>
-      <span style="color:#f34b7d;">●</span> C++
+      <div style="padding: 12px;">
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/JeongFork/Pollutional-Penguin-Public-Mine" style="text-decoration:none; color:#0969da;">Pollutional-Penguin-Public-Mine</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/HYOJEONG0213/Pollutional-Penguin-Public" style="color:#57606a; text-decoration:none;">HYOJEONG0213/Pollutional-Penguin-Public</a></span><br>
+        <br>
+        <span style="font-size:13px; color:#24292f;">오염 펭귄(2024년 졸업 작품 / 언리얼)</span><br>
+        <br>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#f34b7d;">●</span> C++</span>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/JeongFork/BlockPuzzle" style="text-decoration:none; color:#0969da;">📑 BlockPuzzle</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px;">Public</code><br>
-      <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/HYOJEONG0213/Discovery2023" style="color:#57606a; text-decoration:none;">HYOJEONG0213/Discovery2023</a></span><br>
-      <br>
-      블록 퍼즐 맞추기 게임(2023년 디스커버리 프로그래밍 경진대회 우수상 / 파이게임)<br>
-      <br>
-      <span style="color:#3572A5;">●</span> Python &nbsp;&nbsp; ⑂ 1
+      <div style="padding: 12px;">
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/Never-Come-Lab" style="text-decoration:none; color:#0969da;">Never-Come-Lab</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/PLUM-NCL/Never-Come-Lab" style="color:#57606a; text-decoration:none;">PLUM-NCL/Never-Come-Lab</a></span><br>
+        <br>
+        <span style="font-size:13px; color:#24292f;">스토리 어드벤처 게임 &lt;NCL&gt; Demo Version 👨‍🎓</span><br>
+        <br>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#178600;">●</span> C#</span>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/HYOJEONG0213/TetriJ" style="text-decoration:none; color:#0969da;">📑 TetriJ</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px;">Public</code><br>
-      <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/Hyuni02/TetriJ" style="color:#57606a; text-decoration:none;">Hyuni02/TetriJ</a></span><br>
-      2024년 소프트웨어 공학 수업에서 제작한 테트리스(Javafx)<br>
-      <br>
-      <span style="color:#b07219;">●</span> Java
+      <div style="padding: 12px;">
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/Direct12" style="text-decoration:none; color:#0969da;">Direct12</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <br>
+        <span style="font-size:13px; color:#24292f;">다이렉트12 찍먹</span><br>
+        <br>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#f34b7d;">●</span> C++</span>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/HYOJEONG0213/UNO" style="text-decoration:none; color:#0969da;">📑 UNO</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px;">Public</code><br>
-      <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/swEngineering10/swEngineering10" style="color:#57606a; text-decoration:none;">swEngineering10/swEngineering10</a></span><br>
-      2023년 소프트웨어 공학 수업에서 제작한 우노 게임(파이게임)<br>
-      <br>
-      <span style="color:#3572A5;">●</span> Python
+      <div style="padding: 12px;">
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/JeongFork/BlockPuzzle" style="text-decoration:none; color:#0969da;">BlockPuzzle</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/HYOJEONG0213/Discovery2023" style="color:#57606a; text-decoration:none;">HYOJEONG0213/Discovery2023</a></span><br>
+        <br>
+        <span style="font-size:13px; color:#24292f;">블록 퍼즐 맞추기 게임(2023년 디스커버리 프로그래밍 경진대회 우수상 / 파이게임)</span><br>
+        <br>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#3572A5;">●</span> Python &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-forked-16.svg" width="14" align="center"/> 1</span>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 12px;">
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/TetriJ" style="text-decoration:none; color:#0969da;">TetriJ</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/Hyuni02/TetriJ" style="color:#57606a; text-decoration:none;">Hyuni02/TetriJ</a></span><br>
+        <br>
+        <span style="font-size:13px; color:#24292f;">2024년 소프트웨어 공학 수업에서 제작한 테트리스(Javafx)</span><br>
+        <br>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#b07219;">●</span> Java</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 12px;">
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/UNO" style="text-decoration:none; color:#0969da;">UNO</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/swEngineering10/swEngineering10" style="color:#57606a; text-decoration:none;">swEngineering10/swEngineering10</a></span><br>
+        <br>
+        <span style="font-size:13px; color:#24292f;">2023년 소프트웨어 공학 수업에서 제작한 우노 게임(파이게임)</span><br>
+        <br>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#3572A5;">●</span> Python</span>
+      </div>
     </td>
     <td width="50%" valign="top">
     </td>
