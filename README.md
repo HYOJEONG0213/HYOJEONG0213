@@ -58,21 +58,21 @@
   <tr>
     <td width="50%" valign="top">
       <div style="padding: 12px;">
-        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/Never-Come-Lab" style="text-decoration:none; color:#0969da;">Never-Come-Lab</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
-        <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/PLUM-NCL/Never-Come-Lab" style="color:#57606a; text-decoration:none;">PLUM-NCL/Never-Come-Lab</a></span><br>
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/Direct12" style="text-decoration:none; color:#0969da;">Direct12</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
         <br>
-        <span style="font-size:13px; color:#24292f;">스토리 어드벤처 게임 &lt;NCL&gt; Demo Version 👨‍🎓</span><br>
+        <span style="font-size:13px; color:#24292f;">다이렉트12로 엔진 구현 후 3D 수박게임 모작(C++)</span><br>
         <br>
-        <span style="font-size:12px; color:#57606a;"><span style="color:#178600;">●</span> C#</span>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#f34b7d;">●</span> C++</span>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="padding: 12px;">
-        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/Direct12" style="text-decoration:none; color:#0969da;">Direct12</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/Never-Come-Lab" style="text-decoration:none; color:#0969da;">Never-Come-Lab</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <span style="font-size:11px; color:#57606a;">Forked from <a href="https://github.com/PLUM-NCL/Never-Come-Lab" style="color:#57606a; text-decoration:none;">PLUM-NCL/Never-Come-Lab</a></span><br>
         <br>
-        <span style="font-size:13px; color:#24292f;">다이렉트12 찍먹</span><br>
+        <span style="font-size:13px; color:#24292f;">스토리 어드벤처 게임(유니티) &lt;NCL&gt; Demo Version 👨‍🎓</span><br>
         <br>
-        <span style="font-size:12px; color:#57606a;"><span style="color:#f34b7d;">●</span> C++</span>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#178600;">●</span> C#</span>
       </div>
     </td>
   </tr>
