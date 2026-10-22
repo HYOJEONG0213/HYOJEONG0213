@@ -58,6 +58,15 @@
   <tr>
     <td width="50%" valign="top">
       <div style="padding: 12px;">
+        <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/TechLab" style="text-decoration:none; color:#0969da;">TechLab</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
+        <br>
+        <span style="font-size:13px; color:#24292f;">크래프톤 Tech Lab 8주간 DirectX 11 게임 엔진 제작 기록</span><br>
+        <br>
+        <span style="font-size:12px; color:#57606a;"><span style="color:#f34b7d;">●</span> C++</span>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 12px;">
         <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/Direct12" style="text-decoration:none; color:#0969da;">Direct12</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
         <br>
         <span style="font-size:13px; color:#24292f;">다이렉트12로 엔진 구현 후 3D 수박게임 모작(C++)</span><br>
@@ -65,6 +74,8 @@
         <span style="font-size:12px; color:#57606a;"><span style="color:#f34b7d;">●</span> C++</span>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <div style="padding: 12px;">
         <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/Never-Come-Lab" style="text-decoration:none; color:#0969da;">Never-Come-Lab</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
@@ -75,8 +86,6 @@
         <span style="font-size:12px; color:#57606a;"><span style="color:#178600;">●</span> C#</span>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <div style="padding: 12px;">
         <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/JeongFork/BlockPuzzle" style="text-decoration:none; color:#0969da;">BlockPuzzle</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
@@ -87,6 +96,8 @@
         <span style="font-size:12px; color:#57606a;"><span style="color:#3572A5;">●</span> Python &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-forked-16.svg" width="14" align="center"/> 1</span>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <div style="padding: 12px;">
         <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/TetriJ" style="text-decoration:none; color:#0969da;">TetriJ</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
@@ -97,8 +108,6 @@
         <span style="font-size:12px; color:#57606a;"><span style="color:#b07219;">●</span> Java</span>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <div style="padding: 12px;">
         <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" align="center"/> <b><a href="https://github.com/HYOJEONG0213/UNO" style="text-decoration:none; color:#0969da;">UNO</a></b> &nbsp; <code style="font-size:12px; border-radius:2em; padding:2px 7px; color:#57606a; background-color:transparent; border: 1px solid #d0d7de;">Public</code><br>
@@ -108,8 +117,6 @@
         <br>
         <span style="font-size:12px; color:#57606a;"><span style="color:#3572A5;">●</span> Python</span>
       </div>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
